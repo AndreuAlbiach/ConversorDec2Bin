@@ -12,5 +12,5 @@
 ---
 
 >[!WARNING]
->Pero cuidado
+>Pero cuidado 🤨📸
 
